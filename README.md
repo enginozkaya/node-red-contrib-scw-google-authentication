@@ -40,3 +40,4 @@ This project is a creation of [VISEO](http://www.viseo.com) Technology.
 
 Copyright 2016-2019 [VISEO](http://www.viseo.com) under the Apache 2.0 license.
 Copyright 2012-2019 [SARAH](http://sarah.encausse.net) under the Apache 2.0 license.
+Copyright 2024-2024 [ENGIN](https://github.com/enginozkaya) under the Apache 2.0 license.

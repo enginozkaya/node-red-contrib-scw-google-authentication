@@ -7,6 +7,7 @@ This node is part of project [node-red-contrib-viseo](https://github.com/NGRP/no
 Here is a [French Article](https://goo.gl/DMfJk1) on Bot Ecosystem and more.
 
 This Project just forked in order to apply impersonation to google service account.
+You should delete node-red-contrib-viseo-google-authentication library to work with this one.
 ## Quick Start
 
 ```

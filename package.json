@@ -1,14 +1,14 @@
 {
   "_args": [
     [
-      "node-node-red-contrib-scw-google-authentication@1.0.0",
+      "node-red-contrib-scw-google-authentication@1.0.0",
       "/Users/eoz/www/tools/scw-node-red-local-repositories/data"
     ]
   ],
-  "_from": "node-node-red-contrib-scw-google-authentication@1.0.0",
+  "_from": "node-red-contrib-scw-google-authentication@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-XxLejUL7cdPUmRDWzBsDCrAjZiPsYIu2hF9MKY4ISh1W6tPbcUxc5RCmbDLxfnJ10e439qJTS2xZ5QAOB7PffA==",
-  "_location": "/node-node-red-contrib-scw-google-authentication",
+  "_location": "/node-red-contrib-scw-google-authentication",
   "_phantomChildren": {
     "google-auth-library": "5.7.0",
     "googleapis-common": "3.2.2"
@@ -16,18 +16,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "node-node-red-contrib-scw-google-authentication@1.0.0",
-    "name": "node-node-red-contrib-scw-google-authentication",
-    "escapedName": "node-node-red-contrib-scw-google-authentication",
+    "raw": "node-red-contrib-scw-google-authentication@1.0.0",
+    "name": "node-red-contrib-scw-google-authentication",
+    "escapedName": "node-red-contrib-scw-google-authentication",
     "rawSpec": "1.0.0",
     "saveSpec": null,
     "fetchSpec": "1.0.0"
   },
   "_requiredBy": [
     "/",
-    "/node-node-red-contrib-viseo-google-spreadsheet"
+    "/node-red-contrib-viseo-google-spreadsheet"
   ],
-  "_resolved": "https://registry.npmjs.org/node-node-red-contrib-scw-google-authentication/-/node-node-red-contrib-scw-google-authentication-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-scw-google-authentication/-/node-red-contrib-scw-google-authentication-1.0.0.tgz",
   "_spec": "1.0.0",
   "_where": "/Users/eoz/www/tools/scw-node-red-local-repositories/data",
   "dependencies": {
